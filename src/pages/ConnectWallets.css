@@ -1,0 +1,17 @@
+.WalletConnectBtn {
+    width: 280px;
+    height: 56px;
+    border-radius: 4px;
+    margin-top: 10px;
+    border: none;
+}
+
+.KlipBtn {
+    background: #216fea;
+    color: #ffffff;
+}
+
+.KaikasBtn {
+    background: rgb(111, 101, 88);
+    color: #ffffff;
+}
