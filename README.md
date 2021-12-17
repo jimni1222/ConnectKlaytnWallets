@@ -1,5 +1,7 @@
 # Sample project to connect with Klaytn Wallets
 
+<img width="80%" src="https://user-images.githubusercontent.com/32922423/146496299-aa323f9c-acf5-4362-ac2e-e190cd9887b6.mov" />
+
 This project demonstrates connecting the Klaytn Wallets (Klip and Kaikas).
 
 Try running some of the following tasks:
